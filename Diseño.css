@@ -9,7 +9,7 @@
 
   .Titulo-Uno {
     position: relative;
-    color: crimson; 
+    color: rgb(205, 2, 2); 
     font-size: 90px; 
     margin-top: 50px; 
     margin-left: 80px;
@@ -17,7 +17,7 @@
   }
   .Titulo-Dos {
     position: relative;
-    color: crimson; 
+    color: rgb(145, 20, 20); 
     font-size: 29px; 
     margin-top: 40px; 
     margin-left: 90px;
