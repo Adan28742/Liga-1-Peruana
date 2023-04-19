@@ -1,10 +1,10 @@
 .img-derecha {
     margin-left: 40px;
-    width: 270px;
-    height: 270px;
+    width: 380px;
+    height: 290px;
     position: absolute;
-    top: 55px;
-    right: 80px
+    top: 50px;
+    right: 10px
   }
 
   .Titulo-Uno {
@@ -22,15 +22,15 @@
     margin-top: 40px; 
     margin-left: 90px;
     bottom: 50px;
-    font-family: "Book Antigua",Arial, sans-serif;
+    font-family: "Bookman Old Style",Arial, sans-serif;
   }
-  .subtitulo {
+  .subtitulo { 
     position: relative;
-    font-size: 38px; 
+    font-size: 34px; 
     text-align: center;
-    font-family: "Book Antigua",Arial, sans-serif;
-    text-decoration: underline;
-    color:darkslategrey ; 
+    font-family: "Bookman Old Style",Arial, sans-serif;
+    background-color: darkred;
+    color: rgb(255, 255, 255);
   }
 
   .red-line{
@@ -41,10 +41,27 @@
   .mi-seccion {
     height: 300px;
     width: 1550px;
-    background-image: url('https://www.ohprintpublicidad.com/wp-content/uploads/2022/04/campo-futbol.jpg');
+    background-image: url('https://img.freepik.com/vector-gratis/nuevo-fondo-abstracto-moderno-colorfuel_125964-850.jpg');
     background-position: center;
     background-size: cover;
     
   }
+  #verTabla{
+    background-color: darkred;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 24px;
+    font-family: "Bookman Old Style",Arial, sans-serif;
+    cursor: pointer;
+    display: block;
+     margin: 0 auto;
+  }
+  body {
+  background-image: url('https://img.freepik.com/foto-gratis/patron-marmol-natural-fondo_1258-22261.jpg?w=2000');
+  background-repeat: repeat;
+}
+
 
   
